@@ -1,13 +1,13 @@
 # Data Repository and Python script
 
-## Paper submitted to the ICIS 2024 Conference: Exploring the Health Landscape in IS Research: A Text-Mining Analysis
+## Paper published in the Electronic Markets journal: Advancing digital health in information systems research: insights from a text-mining analysis
 
 ### Paper Authors: Silke Weißenfels, Anika Nissen & Stefan Smolnik
 
-Link to Paper Publication: <insert url upon acceptance>
+Paper DOI: 10.1007/s12525-025-00768-w
 
 <br>
-This the is python script and data repository for the paper "Exploring the Health Landscape in IS Research: A Text-Mining Analysis" submitted to the ICIS 2024 conference.
+This the is python script and data repository for the paper "Advancing digital health in information systems research: insights from a text-mining analysis" published in the Electronic Markets journal in 2025.
 
 Data respository owner &copy; Anika Nissen
 
