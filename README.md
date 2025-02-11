@@ -13,7 +13,7 @@ Data respository owner &copy; Anika Nissen
 
 Here you will get access to the following resources:
 
-* The script used to analyze the paper abstracts (``Analysis_Text-Mining-Script.ipynb``)
+* The script used to analyze the paper abstracts (``Analysis-Abstracts-HealthinBasket-v6-NMF-model-EMrev1.ipynb``)
 * The coherence score graph used to select the number of topics
-* A list of all included papers, and the resulting LDA and NMF topics from our analyses, as well as the manual analyses we did with the topic modelling results (``Results_Text_Mining.xlsb``)
+* A list of all included papers, and the resulting LDA and NMF topics from our analyses, as well as the manual analyses we did with the topic modelling results (``Results_Text_Mining.xlsb`` and with added prediction scores from the NMF model ``LDATopicResults_v5-NMF-Preds-Merged.xlsx``)
 * All NMF wordclouds in high resolution can be found in the respective folder
